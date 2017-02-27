@@ -1,0 +1,7 @@
+{
+    "name": "React Company Directory",
+    "description": "Mini App with React and Node.js",
+    "repository": "https://github.com/hx462/directoryLookUp",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["node", "express", "react", "directory"]
+}
